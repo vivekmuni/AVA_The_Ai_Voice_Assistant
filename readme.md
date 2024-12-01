@@ -19,6 +19,7 @@
 - **Google Fonts**: For custom typography.
 
 ## Setup and Installation
-1. Clone this repository to your local machine:
-   ```bash
+1. Clone this repository to your local machine
+2. https://github.com/vivekmuni/AVA_The_Ai_Voice_Assistant
+   
  
